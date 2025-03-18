@@ -1,4 +1,4 @@
-// "use client"
+"use client"
 import courseData from "@/data/store_data.json"
 import Link from "next/link"
 import {BackgroundGradient} from "@/components/ui/Background-Gradient"

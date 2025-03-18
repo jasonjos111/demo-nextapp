@@ -1,3 +1,4 @@
+"use client"
 import Link from "next/link"
 import { Spotlight } from "./ui/Spotlight-new"
 import {Button} from "@/components/ui/moving-border"
